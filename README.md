@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on developing new data science skills.<br>👯 I’m looking to collaborate on Data Science Projects <br>🌱 I’m currently learning ML Algorithms <br>📫 Reach out to me at: ripoohann172005@gmail.com<br>💬 Ask me about Data Analytics, Python Programming, Data Science<br>⚡ Fun fact... I'm  Keyboardist and music director at my local band
+🔭 I’m currently working on developing new data science skills.<br>👯 I’m looking to collaborate on Data Science Projects <br>🌱 I’m currently learning ML Algorithms <br>📫 Reach out to me at: ripoohann172005@gmail.com<br>💬 Ask me about Data Analytics, Python Programming, Data Science<br>⚡ Fun fact... I'm a Keyboardist and music director at my local band
 
 
 ## 🌐 Socials:
